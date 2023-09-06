@@ -74,9 +74,9 @@ header p {
 }
 
 .site-thumb {
-  width: 350px;
+ 
   height: 200px;
-  /* transition: transform .2s; */
+ 
 }
 
 .site-thumb img {
