@@ -103,3 +103,12 @@ header p {
 .visite-btn a {
   color: #fff;
 }
+.visite-btn:hover {
+    direction: rtl; 
+    background: linear-gradient(
+      90deg,
+      rgba(9, 129, 153, 1) 0%,
+      rgba(18, 18, 198, 1) 65%,
+     rgba(25, 15, 198, 1) 100% 
+    );
+  }
